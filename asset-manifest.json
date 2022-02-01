@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/automaatio-naytto/static/css/main.073c9b0a.css",
-    "main.js": "/automaatio-naytto/static/js/main.0a5eaf43.js",
+    "main.js": "/automaatio-naytto/static/js/main.e029a1d4.js",
     "static/js/787.ae9ced24.chunk.js": "/automaatio-naytto/static/js/787.ae9ced24.chunk.js",
     "static/media/logo.svg": "/automaatio-naytto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/automaatio-naytto/index.html",
     "main.073c9b0a.css.map": "/automaatio-naytto/static/css/main.073c9b0a.css.map",
-    "main.0a5eaf43.js.map": "/automaatio-naytto/static/js/main.0a5eaf43.js.map",
+    "main.e029a1d4.js.map": "/automaatio-naytto/static/js/main.e029a1d4.js.map",
     "787.ae9ced24.chunk.js.map": "/automaatio-naytto/static/js/787.ae9ced24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0a5eaf43.js"
+    "static/js/main.e029a1d4.js"
   ]
 }
